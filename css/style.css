@@ -60,11 +60,11 @@ h3.proj-content {
   padding: 0 1rem;
 }
 
-.blog-links a {
+.blog-links a , .resume-links a{
   color: #e0e0e0;
   font-weight: bold;
 }
-.blog-links a:hover {
+.blog-links a:hover, .resume-links a:hover {
   color: #232b2b;
   background: #e0e0e0;
 }
