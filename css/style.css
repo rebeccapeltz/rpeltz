@@ -26,13 +26,13 @@ a:hover {
 }
 
 .card-title {
-  font-size:1.2rem;
+  font-size: 1.2rem;
 }
 .btn {
-  font-size: .75rem;
+  font-size: 0.75rem;
 }
 footer {
-  padding-left:5px;
+  padding-left: 5px;
 }
 
 .present {
@@ -42,3 +42,33 @@ footer {
   margin-bottom: 20px;
 }
 
+h3.proj-content {
+  margin: 2rem 0;
+}
+
+/* .card {
+  margin: 0 .5rem;
+  justify-content: space-around !important;
+} */
+
+.card-body {
+  color: white;
+  background-color: #414a4c;
+}
+.card-title,
+.card-text {
+  padding: 0 1rem;
+}
+
+.blog-links a {
+  color: #e0e0e0;
+  font-weight: bold;
+}
+.blog-links a:hover {
+  color: #232b2b;
+  background: #e0e0e0;
+}
+
+.resume-section h3 , .resume-section .subheading{
+  font-size: medium;
+}
